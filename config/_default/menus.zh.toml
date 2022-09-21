@@ -1,49 +1,49 @@
 ############# Chinese navigation ##############
 
-# main menu
-[[main]]
-name = "首页"
-url = ""
-weight = 1
+# # main menu
+# [[main]]
+# name = "首页"
+# url = ""
+# weight = 1
 
-[[main]]
-name = "关于"
-url = "about/"
-weight = 4
+# [[main]]
+# name = "关于"
+# url = "about/"
+# weight = 4
 
-[[main]]
-name = "玩法"
-url = "how-it-works/"
-weight = 5
+# [[main]]
+# name = "玩法"
+# url = "how-it-works/"
+# weight = 5
 
-[[main]]
-name = "文章"
-url = "blog/"
-weight = 7
+# [[main]]
+# name = "文章"
+# url = "blog/"
+# weight = 7
 
-[[main]]
-name = "联络"
-url = "contact/"
-weight = 15
+# [[main]]
+# name = "联络"
+# url = "contact/"
+# weight = 15
 
 
-# footer menu
-[[footer]]
-name = "关于"
-url = "about/"
-weight = 1
+# # footer menu
+# [[footer]]
+# name = "关于"
+# url = "about/"
+# weight = 1
 
-[[footer]]
-name = "玩法"
-url = "how-it-works/"
-weight = 2
+# [[footer]]
+# name = "玩法"
+# url = "how-it-works/"
+# weight = 2
 
-[[footer]]
-name = "协议"
-url = "terms-and-conditions/"
-weight = 3
+# [[footer]]
+# name = "协议"
+# url = "terms-and-conditions/"
+# weight = 3
 
-[[footer]]
-name = "版本日志"
-url = "changelog/"
-weight = 4
+# [[footer]]
+# name = "版本日志"
+# url = "changelog/"
+# weight = 4

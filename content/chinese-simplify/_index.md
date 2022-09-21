@@ -2,14 +2,14 @@
 # banner
 banner:
   title: "疯狂星期四 V50 买 KFC4"
-  button: "去 Pancake 交易"
+  button: "敬请期待"
   button_link: "#!"
   image: "images/banner-app.png"
 
 
 # brands
 brands_carousel:
-  enable: true
+  enable: false
   brand_images:
   - "images/brands/01-colored.png"
   - "images/brands/02-colored.png"
@@ -26,7 +26,7 @@ brands_carousel:
 
 # features
 features:
-  enable: true
+  enable: false
   subtitle: "Caractéristiques spéciales"
   title: "Éléments pour <br> vous aider à démarrer"
   description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas <br> Werat viverra id et aliquet. vulputate egestas sollicitudin."
@@ -53,7 +53,7 @@ features:
 
 # intro_video
 intro_video:   
-  enable: true
+  enable: false
   subtitle: "Courte vidéo d'introduction"
   title: "Construit exclusivement pour vous"
   description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas <br> Werat viverra id et aliquet. vulputate egestas sollicitudin."
@@ -63,13 +63,13 @@ intro_video:
 
 # how_it_works
 how_it_works:   
-  enable: true
+  enable: false
   section: "how-it-works" # content comming from how-it-works page
 
 
 # testimonials
 testimonials:   
-  enable: true
+  enable: false
   subtitle: "Notre témoignage"
   title: "Ne nous croyez pas sur parole"
   description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas <br> Werat viverra id et aliquet. vulputate egestas sollicitudin."
