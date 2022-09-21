@@ -1,7 +1,7 @@
 ---
 # banner
 banner:
-  title: "Crazy Thursday"
+  title: "Crazy Thursday! Yes we rug!"
   button: "Comming Soon"
   button_link: "#!"
   image: "images/banner-app.png"

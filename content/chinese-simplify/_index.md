@@ -1,7 +1,7 @@
 ---
 # banner
 banner:
-  title: "疯狂星期四 V50 买 KFC4"
+  title: "疯狂星期四，我们跑路了"
   button: "敬请期待"
   button_link: "#!"
   image: "images/banner-app.png"
