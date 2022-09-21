@@ -94,7 +94,7 @@ preloader = "images/favicon.png" # use jpg, png, svg or gif format.
 [navigation_button]
 enable = true
 label = "Comming Soon"
-link = "signup/"
+link = "#"
 
 # seo meta data for OpenGraph / Twitter Card
 [metadata]
