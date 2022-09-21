@@ -9,7 +9,7 @@ logo_width = "60px"
 # if logo_webp set false, it will not generate WEBP version of logo
 logo_webp = true # default is true
 # logo text will only show when logo is missing.
-logo_text = "Andromeda"
+logo_text = "KFCDAO"
 # image gallery shortcode
 image_gallery = true
 
@@ -98,9 +98,9 @@ link = "#"
 
 # seo meta data for OpenGraph / Twitter Card
 [metadata]
-keywords = ["Hugo", "Themefisher", "GetHugoThemes"]
-description = "Software and SAAS Landing Hugo Theme"
-author = "Themefisher"
+keywords = ["KFCDAO", "KFC4", "V50", "KFC4V50"]
+description = "KFCDAO"
+author = "KFCDAO"
 image = "images/og-image.jpg" # this image will be used as fallback if a page has no image of its own
 
 # site verifications
@@ -131,7 +131,7 @@ button_link = "/"
 # link = "#!"
 
 [[social]]
-title = "AndromedaTweet"
+title = "KFCDAO Twitter"
 icon = "lab la-twitter" # https://icons8.com/line-awesome
 link = "https://twitter.com/KFCDAOcom"
 
